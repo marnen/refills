@@ -37,6 +37,7 @@ article.type-system-slab {
   $serif: 'Roboto Slab', serif;
 
   @include clearfix;
+  font-family: $serif;
   text-align: left;
 
   .type {

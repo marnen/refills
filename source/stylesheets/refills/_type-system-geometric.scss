@@ -37,6 +37,7 @@ article.type-system-geometric {
   $serif: 'Sanchez', serif;
 
   @include clearfix;
+  font-family: $sans-serif;
   text-align: left;
 
   .type {
